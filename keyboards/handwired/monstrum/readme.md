@@ -1,6 +1,7 @@
 # Monstrum
 
 This is fully custom designed and 3D printed keyboard using the Elite-C micro controller
+Veselé Vánoce Jůro, ať slouží :D
 
 ## Wiring
 
@@ -27,6 +28,9 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 Enter the bootloader:
 
 **Keycode in layout**: Press the key mapped to `QK_BOOT` (Fn+Del)
+
+## Layout
+![Layout image](https://github.com/ONDRA5/qmk_firmware/blob/master/keyboards/handwired/monstrum/photos/keyboard-layout.png)
 
 ## Photos
 
