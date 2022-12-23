@@ -1,6 +1,6 @@
 # Monstrum
 
-This is fully custom designed and 3D printed keyboard using the Elite-C micro controller
+This is fully custom designed and 3D printed keyboard using the Elite-C micro controller\
 Veselé Vánoce Jůro, ať slouží :D
 
 ## Wiring
